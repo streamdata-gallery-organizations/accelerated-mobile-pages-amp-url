@@ -13,8 +13,8 @@ tags:
 - Stack Network
 - Mobile
 - Google APIs
-created: "2018-03-14"
-modified: "2018-03-14"
+created: "2018-03-21"
+modified: "2018-03-21"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelerated-mobile-pages-amp-url/master/_listings/accelerated-mobile-pages-amp-url/apis.yaml
 specificationVersion: "0.14"
 apis:
