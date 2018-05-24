@@ -1,34 +1,18 @@
 ---
-name: Accelerated Mobile Pages URL
-x-slug: accelerated-mobile-pages-url
-description: 'AMP is a way to build web pages for static content that render fast.
-  AMP in action consists of three different parts: AMP HTML is HTML with some restrictions
-  for reliable performance and some extensions for building rich content beyond basic
-  HTML. The AMP JS library ensures the fast rendering of AMP HTML pages. The Google
-  AMP Cache can be used to serve cached AMP HTML pages.'
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-amp.png
-x-kinRank: "9"
-x-alexaRank: ""
-tags: Accelerated Mobile Pages URL
-created: "2018-05-24"
+name: Streadata.io API Gallery - Accelerated Mobile Pages URL
+description: This is a repository of accelerated mobile pages url APIs, self-contained
+  as a Github repository, with HTML and YAML representations of the APIs and their
+  surrounding operations.
+image: http://template.streamdata.gallery/assets/accelerated-mobile-pages-url.png
+created: "2018-02-24"
 modified: "2018-05-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelerated-mobile-pages-url/master/_listings/accelerated-mobile-pages-url/apis.md
+url: http://accelerated-mobile-pages-url.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-blog
-  url: https://amphtml.wordpress.com/
-- type: x-blog-rss
-  url: https://amphtml.wordpress.com/feed/
-- type: x-developer
-  url: https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/
-- type: x-github
-  url: https://github.com/ampproject
-- type: x-twitter
-  url: https://twitter.com/amphtml
-- type: x-website
-  url: https://www.ampproject.org/
-include: []
+tags: Accelerated Mobile Pages URL
+include:
+- name: Accelerated Mobile Pages URL
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelerated-mobile-pages-url/master/_listings/accelerated-mobile-pages-url/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
