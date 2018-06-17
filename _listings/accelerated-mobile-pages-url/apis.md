@@ -8,10 +8,10 @@ description: 'AMP is a way to build web pages for static content that render fas
   AMP Cache can be used to serve cached AMP HTML pages.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-amp.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Accelerated Mobile Pages URL
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelerated-mobile-pages-url/master/_listings/accelerated-mobile-pages-url/apis.md
 specificationVersion: "0.14"
 apis:

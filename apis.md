@@ -5,7 +5,7 @@ description: This is a repository of accelerated mobile pages url APIs, self-con
   surrounding operations.
 image: http://template.streamdata.gallery/assets/accelerated-mobile-pages-url.png
 created: "2018-02-24"
-modified: "2018-05-24"
+modified: "2018-06-17"
 url: http://accelerated-mobile-pages-url.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
