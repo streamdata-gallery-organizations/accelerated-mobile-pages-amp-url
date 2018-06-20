@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Accelerated Mobile Pages URL
-created: "2018-06-17"
-modified: "2018-06-17"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelerated-mobile-pages-url/master/_listings/accelerated-mobile-pages-url/apis.md
 specificationVersion: "0.14"
 apis:
