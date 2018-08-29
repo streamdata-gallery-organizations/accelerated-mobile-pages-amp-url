@@ -4,7 +4,7 @@ url: accelerated-mobile-pages-url.streamdata.gallery
 tag: Accelerated Mobile Pages URL
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: accelerated-mobile-pages-url
 github_branch: master
 collections:
